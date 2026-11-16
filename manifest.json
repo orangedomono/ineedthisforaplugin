@@ -1,0 +1,15 @@
+{
+  "name": "UwUify",
+  "description": "UwUify your outgoing messages (auto mode + /uwu command).",
+  "authors": [
+    {
+      "name": "n3rdcub",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "966123df3ef78b266f62a409676e916c6bd1de1f9da0960abaaefd8849ea6757",
+  "vendetta": {
+    "icon": "ic_message_edit"
+  }
+}
